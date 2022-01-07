@@ -1,0 +1,49 @@
+.footer-dark{
+    background-color: #202020;
+    color: white;
+}
+.icon-footer {
+    width: 60px;
+    height: auto;
+}
+.grid-center {
+    overflow: none;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.head-text{
+    font-size: 90px;
+    text-align: center;
+    font-family: DilleniaUPC;
+}
+.head-detail{
+    font-size: 60px;
+    font-family: DilleniaUPC;
+}
+p{
+    font-size: 35px;
+    font-family: DilleniaUPC;
+}
+.p-footer{
+    font-size: 20px;
+    font-family: DilleniaUPC;
+}
+.img {
+    width: 500px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/*index*/
+.profile {
+    width: 500px;
+    height: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.font{
+    font-size: 50px;
+}
+/*movie*/
+.movie-grid{
+    padding: 50px 0px;
+}
